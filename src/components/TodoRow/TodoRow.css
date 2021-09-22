@@ -1,0 +1,4 @@
+.todoText{
+    word-break: break-all;
+    user-select: none;
+}
